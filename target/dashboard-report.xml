@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><MavenProject projectName="LiveRestaurant Spring-WS Application" artifactId="LiveRestaurant" groupId="com.services.hotal" version="1.0-SNAPSHOT">
+  <id>0</id>
+  <modules/>
+  <reports>
+    <org.codehaus.mojo.dashboard.report.plugin.beans.CoberturaReportBean>
+      <nbClasses>15</nbClasses>
+      <lineCoverRate>0.0</lineCoverRate>
+      <branchCoverRate>0.0</branchCoverRate>
+      <numberOfCoveredBranches>0</numberOfCoveredBranches>
+      <numberOfCoveredLines>0</numberOfCoveredLines>
+      <numberOfValidBranches>6</numberOfValidBranches>
+      <numberOfValidLines>141</numberOfValidLines>
+      <dateGeneration>2015-05-25 21:47:43.875 IST</dateGeneration>
+      <id>0</id>
+    </org.codehaus.mojo.dashboard.report.plugin.beans.CoberturaReportBean>
+  </reports>
+</MavenProject>
